@@ -10,13 +10,13 @@
     "Eaglercraft2",
     "JavaScript"
   ],
-  "homepage": "https://github.com",
+  "homepage": "https://github.com/EaglercraftXLauncher/EaglercraftXLauncher",
   "bugs": {
-    "url": "https://github.com"
+    "url": "https://github.com/EaglercraftXLauncher/EaglercraftXLauncher/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com"
+    "url": "https://github.com/EaglercraftXLauncher/EaglercraftXLauncher"
   },
   "license": "ISC",
   "author": "Ck Gaming Studios",
